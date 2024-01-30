@@ -12,5 +12,7 @@ function accum(s) {
 }
 
 console.log(accum("abcd"));
-console.log(accum("RqaEzty"));
+console.log(accum("qwerty"));
 console.log(accum("cwAt"));
+
+
